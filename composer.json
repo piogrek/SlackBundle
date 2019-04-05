@@ -23,7 +23,7 @@
         "php": "^7.1",
         "symfony/framework-bundle": "^2.7 || ^3.0 || ^4.0",
         "threadmeup/slack-sdk": "^1.1",
-        "symfony/console": "^4.1",
+        "symfony/console": "*",
         "partfire/common-bundle": "dev-master"
     },
     "require-dev": {
